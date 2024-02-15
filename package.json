@@ -25,7 +25,7 @@
     "react-dom": "^16.13.0",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.4",
     "react-select-material-ui": "^6.4.2",
     "react-social-login": "^3.4.6",
     "react-to-print": "^2.6.3",
